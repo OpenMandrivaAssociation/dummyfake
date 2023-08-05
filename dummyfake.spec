@@ -1,7 +1,7 @@
 Name:		dummyfake
 
 Version:	0
-Release:	1
+Release:	2
 Summary:	Fake build test
 Group:		System/Configuration/Packaging
 License:	Public Domain
